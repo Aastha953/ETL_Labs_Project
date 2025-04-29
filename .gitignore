@@ -1,0 +1,27 @@
+# Ignore Visual Studio temporary files, build results, and user files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+
+# SQL Server Integration Services specific
+*.dtsx.sql
+*.dtproj.user
+*.SSISPackages
+
+# Backup & log files
+*.log
+*.bak
+*.backup
+
+# Misc
+*.cache
+*.dbmdl
+*.pdb
+*.tmp
+*.DS_Store
